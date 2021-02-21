@@ -21,7 +21,7 @@ const Header = () => {
       <Navbar className="primaryBg" variant='dark' expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
-            <Navbar.Brand>Furniturey</Navbar.Brand>
+            <Navbar.Brand>Maximal</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>

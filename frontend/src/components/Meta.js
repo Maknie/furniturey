@@ -12,7 +12,7 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-  title: 'Furniturey',
+  title: 'Maximal',
   description: 'We help you to make your romm brighter',
   keywords: 'armchair, sofa, furniture',
 }

@@ -9,7 +9,7 @@ const Footer = () => {
           <Col className='text-center py-3'>Contact us for any questions on our <a href={"mailto:" + "lajlimadina@gmail.com"}>email</a></Col>
         </Row>
         <Row>
-          <Col className='text-center py-1'>Copyright &copy; Furniturey</Col>
+          <Col className='text-center py-1'>Copyright &copy; Maximal</Col>
         </Row>
       </Container>
     </footer>
